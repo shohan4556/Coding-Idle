@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Clicker
+  - Scoreboard
+  - Solution
+  - UpgradeTable
+  - Layout
   layers:
   - Default
   - TransparentFX
